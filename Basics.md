@@ -56,29 +56,28 @@ https://github.com/Farheen2302/R_Markdown_practice/edit/master/Basics.md
 -##Blockquotes		
 -> This is cool feature		
 -> I like it		
--		
+	
 ----------		
--##Plain Code Blocks		
--```		
--I am formatted code block , never evaluated		
--```		
--### Inline  code		
--We defined the `add` function to		
--compute the sum of two numbers.		
+##Plain Code Blocks		
+```		
+I am formatted code block , never evaluated		
+```		
+### Inline  code		
+We defined the `add` function to   compute the sum of two numbers.		
 ---------		
--##Horizontal Rule / Page Break		
--*More than or equal to 6 '*' or '-' *		
--********		
+##Horizontal Rule / Page Break		
+*More than or equal to 6 '*' or '-' *		
+********		
 ---------		
--		
+
 ---------		
--##Table		
--*never expected but its there*  
+##Table		
+*never expected but its there*  
 
 Column Heading 1 | Column Heading 2		
 --------- | --------		
--Row1     | Row 1		
--Row 2    | Row 2		
+Row1     | Row 1		
+Row 2    | Row 2		
 
 ##Manual Line Breaks
 
@@ -88,6 +87,7 @@ Do it properly
 
 ##Miscellaneous
 
-superscript^2^
+superscript ^2^
 
 ~~strikethrough~~
+> <r>I am Done
