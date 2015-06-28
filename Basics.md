@@ -5,11 +5,11 @@
 **bold**
 --------------
 ##Headers
-```
+
 #Header 1
 ##Header 2
 ### header 3
-```
+
 ----------------
 ## LISTS
 ###Unordered Lists
@@ -22,6 +22,21 @@
   
 
 ##Ordered List
-1.Item 1
-2.Item 2
-  1. 
+1. Item 1
+2. I tem 2
+  1. Sub item 2(i)
+  2. Sub item 2(ii)
+
+
+---------------
+##R code Chunks  
+``` {r}
+summary(farheen$basics)
+str(farheen$R_code)
+```
+
+###Inline R code  
+There are ` r ncols(farheen$basics) ` in the Date frame 
+--------------
+
+
