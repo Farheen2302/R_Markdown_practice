@@ -39,4 +39,15 @@ str(farheen$R_code)
 There are ` r ncols(farheen$basics) ` in the Date frame 
 --------------
 
+##Links
+*Simply write the link begining with http
+https://github.com/Farheen2302/R_Markdown_practice/edit/master/Basics.md
+*If you want to add the phrase 
+[This is my Git repo](https://github.com/Farheen2302/R_Markdown_practice/edit/master/Basics.md)
 
+--------
+##Images
+*This is similar to links just add ` ! ` in front
+![MARK DOWN](https://trinkerrstuff.files.wordpress.com/2014/11/rmarkdown.png?w=127&h=150)
+![MARK DOWN](https://www.opencpu.org/images/markdown-everywhere.jpg)
+![COOL MD GOD](https://www.opencpu.org/images/markdown-everywhere.jpg)
