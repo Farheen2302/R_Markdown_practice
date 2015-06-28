@@ -47,15 +47,15 @@ https://github.com/Farheen2302/R_Markdown_practice/edit/master/Basics.md
 
 --------
 ##Images
-*This is similar to links just add ` ! ` in front
+*This is similar to links just add ` ! ` in front  
 ![MARK DOWN](https://trinkerrstuff.files.wordpress.com/2014/11/rmarkdown.png?w=127&h=150)
 ![MARK DOWN](https://www.opencpu.org/images/markdown-everywhere.jpg)
-![COOL MD GOD](https://www.opencpu.org/images/markdown-everywhere.jpg)
+![COOL MD GOD](http://i.imgur.com/jrwbX.jpg)
 --------
 -----------		
--##Blockquotes		
--> This is cool feature		
--> I like it		
+##Blockquotes		
+> This is cool feature		
+> I like it		
 	
 ----------		
 ##Plain Code Blocks		
@@ -90,4 +90,4 @@ Do it properly
 superscript ^2^
 
 ~~strikethrough~~
-> <r>I am Done
+> <r>I am Done HAHAHAH
