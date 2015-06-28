@@ -79,4 +79,15 @@ Column Heading 1 | Column Heading 2
 --------- | --------		
 -Row1     | Row 1		
 -Row 2    | Row 2		
--
+
+##Manual Line Breaks
+
+End a line with two or more spaces:  
+This is R markdown Practice   
+Do it properly  
+
+##Miscellaneous
+
+superscript^2^
+
+~~strikethrough~~
